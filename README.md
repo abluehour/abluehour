@@ -20,5 +20,5 @@
 
 
   ## 🤔 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abluehour&layout=compact&exclude_repo=CROFFLE)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abluehour&layout=compact&exclude)
 </div>
