@@ -20,5 +20,13 @@
 
 
   ## 🤔 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abluehour&layout=compact&exclude)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abluehour&layout=compact&exclude_repo=hyundaiezwel_IT)
 </div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=abluehour&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/abluehour"
+  width="600"
+  height="300"
+/>
+</a>
